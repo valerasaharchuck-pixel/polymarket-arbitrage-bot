@@ -1,0 +1,8 @@
+requests
+web3
+python-dotenv
+pandas
+aiohttp
+eth-account
+httpx
+pysocks
